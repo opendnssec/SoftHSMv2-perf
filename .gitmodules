@@ -1,0 +1,6 @@
+[submodule "SoftHSMv2"]
+	path = SoftHSMv2
+	url = https://github.com/opendnssec/SoftHSMv2
+[submodule "p11speed"]
+	path = p11speed
+	url = https://github.com/opendnssec/p11speed
